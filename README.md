@@ -10,7 +10,7 @@ My personal site: https://www.carsonhlbao.com/
 
 My publications: https://scholar.google.com/citations?user=pSdfiCYAAAAJ&hl=en
 
-My comments, notes, and review on the selected papers in a broad range of computational social science -- the science of science, political engagement, health communication, social data, media/networks, field experiments, and so forth (a good resource!): https://www.carsonhlbao.com/post/my-random-notes-when-i-read-papers/
+My comments, notes, and reviews on the selected papers in a broad range of computational social science -- the science of science, political engagement, health communication, social data, media/networks, field experiments, and so forth (a good resource!): https://www.carsonhlbao.com/post/my-random-notes-when-i-read-papers/
 
 How to reach me: baohlcs@gmail.com
 
